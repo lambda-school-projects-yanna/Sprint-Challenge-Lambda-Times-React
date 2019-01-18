@@ -72,11 +72,6 @@ const ContainerRight = styled.div`{
     cursor: pointer;
 }`
 
-
-
-
-
-
 const TopBar = () => {
   return (
     <TopBarDiv>
